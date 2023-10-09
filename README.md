@@ -1,6 +1,6 @@
 
 
-[![ztefanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztefanie)](https://github.com/anuraghazra/github-readme-stats)
+[![ztefanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztefanie&hide=stars&show=reviews&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
